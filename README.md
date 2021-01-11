@@ -2,7 +2,7 @@
 Here you can find both my university repositories and my personal projects! Be my guest!
 ### Current Occupations ###
 1. Computer Engineering student at Universidade de Brasília(UnB).
-2. Member of the Projects area of [Struct - Junior Computer Engineering Company](www.linkedin.com/organization-guest/company/struct-ej)
+2. Member of the Projects area of [Struct - Junior Computer Engineering Company](https://www.linkedin.com/company/struct-ej/)
 
 ### About me ###
 - 🔭 I’m currently working with Rails, React Native and Arduino.
