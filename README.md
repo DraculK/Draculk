@@ -1,13 +1,9 @@
 ### Bom momento! :suspect:
-Here you can find both my university repositories and my personal projects! Be my guest!
-### Current Occupations ###
-1. Computer Engineering student at Universidade de Brasília(UnB).
-2. Member of the Projects area of [Struct - Junior Computer Engineering Company](https://www.linkedin.com/company/struct-ej/)
+I am a computer engineering undergraduate at Universidade de Brasília(UnB) who works as Data Engineer Intern at [Big Data](https://github.com/bigdatabr).
 
 ### About me ###
-- 🔭 I’m currently working with Rails, CI/CD, ReactJS and Arduino.
-- 🌱 I’m currently learning ReactJS, Arduino, CI/CD and Java Script.
-- :paperclip: I've studied and/or worked with C, Python and Java.
+- 🔭 I’m currently working with AWS, Python, Docker and Terraform.
+- :mage_man: I’m currently researching about a lot of things to find my niche.
 - :octocat: Fun fact: I'm always trying to learn a new language.
 
 
