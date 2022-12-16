@@ -1,5 +1,5 @@
 ### Bom momento! :suspect:
-I am a computer engineering undergraduate at Universidade de Brasília(UnB) who works as Data Engineer Intern at [Big Data](https://github.com/bigdatabr).
+I am a computer engineering undergraduate at Universidade de Brasília(UnB).
 
 ### About me ###
 - 🔭 I’m currently working with AWS, Python, Docker and Terraform.
