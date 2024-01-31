@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/DraculK/Draculk/blob/main/lum.gif" width="23%" align="right" />
+<img src="https://github.com/DraculK/Draculk/blob/main/lum.gif" width="25%" align="right" />
 <pre>
 I am a computer engineering undergraduate at Universidade de Brasília(UnB)
   <br>
